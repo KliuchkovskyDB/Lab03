@@ -39,4 +39,5 @@ int main()
      test_positive();
      test_negative();
      test_odinakovo();
+     test_nol();
 }
